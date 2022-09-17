@@ -18,3 +18,5 @@ git push
 git config --global user.email "marikokami05@gmail.com"
 
 git config --global user.name "marik"
+
+Hello it is me Reid

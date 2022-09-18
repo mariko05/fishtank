@@ -1,6 +1,6 @@
 # fishtank
 
-### Edit process 
+### Editting process 
 
 - edit file
 
@@ -10,7 +10,7 @@
 
 - git status - check 
 
-- git commit -m "test edit in line 3" 
+- git commit -m "test edit in line 3"  -m (means message)
 
 - git push - pushes local commits to server 
 
@@ -22,7 +22,7 @@ Hello it is me Reid
 
 _____________________________________________________
 
-Branches 
+### Branches 
 
 - git checkout -b "branchname" - creates a new branch "branchname"
 
@@ -35,4 +35,7 @@ Branches
 state of the working directory and the index, but want to go back to a clean working directory
 - clean directory - first state before the last commit
 - directory == commits 
+
 mariko local - made edits to local main file 
+
+![title](images/dottie.jpg)

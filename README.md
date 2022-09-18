@@ -38,4 +38,11 @@ state of the working directory and the index, but want to go back to a clean wor
 
 mariko local - made edits to local main file 
 
-![title](images/dottie.jpg)
+- when you commit without a message and get stuck with  error message
+
+1. type i to enter insert mode
+2. type in random message
+3. press esc to exit insert mode
+4. type :wq or [:w(write) and :q(quit)] and press enter once
+
+![title](images/dottie.jpg)    

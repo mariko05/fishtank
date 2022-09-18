@@ -45,4 +45,4 @@ mariko local - made edits to local main file
 3. press esc to exit insert mode
 4. type :wq or [:w(write) and :q(quit)] and press enter once
 
-![title](images/dottie.jpg)
+![title](images/dottie.jpg)    

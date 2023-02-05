@@ -1,5 +1,7 @@
 # fishtank
 
+Link to the live site https://velvety-cuchufli-c98ce4.netlify.app
+
 ### Editing process 
 
 - edit file

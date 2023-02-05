@@ -1,6 +1,6 @@
 # fishtank
 
-### Editting process 
+### Editing process 
 
 - edit file
 
